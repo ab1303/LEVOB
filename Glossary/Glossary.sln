@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glossary.Data", "Glossary.Data\Glossary.Data.csproj", "{CF6CDA63-5DDC-499D-8128-883D99ED7EC5}"
 EndProject
@@ -9,9 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glossary.WebApi", "Glossary
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glossary.Services", "Glossary.Services\Glossary.Services.csproj", "{71839702-9209-44C4-BC87-C4643002EBB6}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Glossary.Web(2)", "..\Glossary.Web\", "{9999B652-29F1-4908-8E72-9D1D979C1E35}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Glossary.Web", "..\Glossary.Web\", "{9999B652-29F1-4908-8E72-9D1D979C1E35}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_60986"
 		Debug.AspNetCompiler.PhysicalPath = "..\Glossary.Web\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60986\"
